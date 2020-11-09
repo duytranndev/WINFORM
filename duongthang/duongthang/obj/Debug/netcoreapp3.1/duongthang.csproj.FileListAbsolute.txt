@@ -1,0 +1,13 @@
+D:\Winforms\duongthang\duongthang\bin\Debug\netcoreapp3.1\duongthang.exe
+D:\Winforms\duongthang\duongthang\bin\Debug\netcoreapp3.1\duongthang.deps.json
+D:\Winforms\duongthang\duongthang\bin\Debug\netcoreapp3.1\duongthang.runtimeconfig.json
+D:\Winforms\duongthang\duongthang\bin\Debug\netcoreapp3.1\duongthang.runtimeconfig.dev.json
+D:\Winforms\duongthang\duongthang\bin\Debug\netcoreapp3.1\duongthang.dll
+D:\Winforms\duongthang\duongthang\bin\Debug\netcoreapp3.1\duongthang.pdb
+D:\Winforms\duongthang\duongthang\obj\Debug\netcoreapp3.1\duongthang.csprojAssemblyReference.cache
+D:\Winforms\duongthang\duongthang\obj\Debug\netcoreapp3.1\duongthang.AssemblyInfoInputs.cache
+D:\Winforms\duongthang\duongthang\obj\Debug\netcoreapp3.1\duongthang.AssemblyInfo.cs
+D:\Winforms\duongthang\duongthang\obj\Debug\netcoreapp3.1\duongthang.csproj.CoreCompileInputs.cache
+D:\Winforms\duongthang\duongthang\obj\Debug\netcoreapp3.1\duongthang.dll
+D:\Winforms\duongthang\duongthang\obj\Debug\netcoreapp3.1\duongthang.pdb
+D:\Winforms\duongthang\duongthang\obj\Debug\netcoreapp3.1\duongthang.genruntimeconfig.cache

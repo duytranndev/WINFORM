@@ -1,0 +1,10 @@
+D:\Winforms\WFPTB2_OutSideClass\bin\Debug\WFPTB2_OutSideClass.exe.config
+D:\Winforms\WFPTB2_OutSideClass\bin\Debug\WFPTB2_OutSideClass.exe
+D:\Winforms\WFPTB2_OutSideClass\bin\Debug\WFPTB2_OutSideClass.pdb
+D:\Winforms\WFPTB2_OutSideClass\obj\Debug\WFPTB2_OutSideClass.csprojAssemblyReference.cache
+D:\Winforms\WFPTB2_OutSideClass\obj\Debug\WFPTB2_OutSideClass.Form1.resources
+D:\Winforms\WFPTB2_OutSideClass\obj\Debug\WFPTB2_OutSideClass.Properties.Resources.resources
+D:\Winforms\WFPTB2_OutSideClass\obj\Debug\WFPTB2_OutSideClass.csproj.GenerateResource.cache
+D:\Winforms\WFPTB2_OutSideClass\obj\Debug\WFPTB2_OutSideClass.csproj.CoreCompileInputs.cache
+D:\Winforms\WFPTB2_OutSideClass\obj\Debug\WFPTB2_OutSideClass.exe
+D:\Winforms\WFPTB2_OutSideClass\obj\Debug\WFPTB2_OutSideClass.pdb

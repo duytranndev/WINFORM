@@ -1,0 +1,15 @@
+D:\Winforms\HETHONG\HETHONG\bin\Debug\HeThong.mdf
+D:\Winforms\HETHONG\HETHONG\bin\Debug\HeThong_log.ldf
+D:\Winforms\HETHONG\HETHONG\bin\Debug\HETHONG.exe.config
+D:\Winforms\HETHONG\HETHONG\bin\Debug\HETHONG.exe
+D:\Winforms\HETHONG\HETHONG\bin\Debug\HETHONG.pdb
+D:\Winforms\HETHONG\HETHONG\obj\Debug\HETHONG.csprojAssemblyReference.cache
+D:\Winforms\HETHONG\HETHONG\obj\Debug\HETHONG.KHOA.resources
+D:\Winforms\HETHONG\HETHONG\obj\Debug\HETHONG.Properties.Resources.resources
+D:\Winforms\HETHONG\HETHONG\obj\Debug\HETHONG.csproj.GenerateResource.cache
+D:\Winforms\HETHONG\HETHONG\obj\Debug\HETHONG.csproj.CoreCompileInputs.cache
+D:\Winforms\HETHONG\HETHONG\obj\Debug\HETHONG.exe
+D:\Winforms\HETHONG\HETHONG\obj\Debug\HETHONG.pdb
+D:\Winforms\HETHONG\HETHONG\obj\Debug\HETHONG.Form1.resources
+D:\Winforms\HETHONG\HETHONG\obj\Debug\HETHONG.GIANGVIEN.resources
+D:\Winforms\HETHONG\HETHONG\obj\Debug\HETHONG.Main_Form.resources

@@ -1,0 +1,11 @@
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\netcoreapp2.1\QuanLyNhanVien.deps.json
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\netcoreapp2.1\QuanLyNhanVien.runtimeconfig.json
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\netcoreapp2.1\QuanLyNhanVien.runtimeconfig.dev.json
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\netcoreapp2.1\QuanLyNhanVien.dll
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\netcoreapp2.1\QuanLyNhanVien.pdb
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\netcoreapp2.1\QuanLyNhanVien.csprojAssemblyReference.cache
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\netcoreapp2.1\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\netcoreapp2.1\QuanLyNhanVien.AssemblyInfoInputs.cache
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\netcoreapp2.1\QuanLyNhanVien.AssemblyInfo.cs
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\netcoreapp2.1\QuanLyNhanVien.dll
+D:\Winforms\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\netcoreapp2.1\QuanLyNhanVien.pdb

@@ -1,0 +1,7 @@
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTran\MaTran\bin\Debug\MaTran.exe.config
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTran\MaTran\bin\Debug\MaTran.exe
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTran\MaTran\bin\Debug\MaTran.pdb
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTran\MaTran\obj\Debug\MaTran.csprojAssemblyReference.cache
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTran\MaTran\obj\Debug\MaTran.csproj.CoreCompileInputs.cache
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTran\MaTran\obj\Debug\MaTran.exe
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTran\MaTran\obj\Debug\MaTran.pdb

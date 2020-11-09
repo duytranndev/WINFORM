@@ -1,0 +1,15 @@
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\bin\Debug\QLVT.mdf
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\bin\Debug\QLVT_log.ldf
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\bin\Debug\KT_GIUAKY.exe.config
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\bin\Debug\KT_GIUAKY.exe
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\bin\Debug\KT_GIUAKY.pdb
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\obj\Debug\KT_GIUAKY.csprojAssemblyReference.cache
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\obj\Debug\KT_GIUAKY.Form1.resources
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\obj\Debug\KT_GIUAKY.MAIN_FORM.resources
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\obj\Debug\KT_GIUAKY.NCC.resources
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\obj\Debug\KT_GIUAKY.Properties.Resources.resources
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\obj\Debug\KT_GIUAKY.VATTU.resources
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\obj\Debug\KT_GIUAKY.csproj.GenerateResource.cache
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\obj\Debug\KT_GIUAKY.csproj.CoreCompileInputs.cache
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\obj\Debug\KT_GIUAKY.exe
+D:\Winforms\KT_GIUAKY\KT_GIUAKY\obj\Debug\KT_GIUAKY.pdb

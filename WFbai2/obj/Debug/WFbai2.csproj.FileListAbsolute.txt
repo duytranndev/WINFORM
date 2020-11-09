@@ -1,0 +1,10 @@
+D:\Winforms\WFbai2\bin\Debug\WFbai2.exe.config
+D:\Winforms\WFbai2\bin\Debug\WFbai2.exe
+D:\Winforms\WFbai2\bin\Debug\WFbai2.pdb
+D:\Winforms\WFbai2\obj\Debug\WFbai2.Form1.resources
+D:\Winforms\WFbai2\obj\Debug\WFbai2.Properties.Resources.resources
+D:\Winforms\WFbai2\obj\Debug\WFbai2.csproj.GenerateResource.cache
+D:\Winforms\WFbai2\obj\Debug\WFbai2.csproj.CoreCompileInputs.cache
+D:\Winforms\WFbai2\obj\Debug\WFbai2.exe
+D:\Winforms\WFbai2\obj\Debug\WFbai2.pdb
+D:\Winforms\WFbai2\obj\Debug\WFbai2.csprojAssemblyReference.cache

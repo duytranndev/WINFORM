@@ -1,0 +1,12 @@
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\bin\Debug\App_Data\SINHVIEN.mdf
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\bin\Debug\App_Data\SINHVIEN_log.ldf
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\bin\Debug\Form_QuanLySinhVien.exe.config
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\bin\Debug\Form_QuanLySinhVien.exe
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\bin\Debug\Form_QuanLySinhVien.pdb
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\obj\Debug\Form_QuanLySinhVien.csprojAssemblyReference.cache
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\obj\Debug\Form_QuanLySinhVien.Form1.resources
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\obj\Debug\Form_QuanLySinhVien.Properties.Resources.resources
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\obj\Debug\Form_QuanLySinhVien.csproj.GenerateResource.cache
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\obj\Debug\Form_QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\obj\Debug\Form_QuanLySinhVien.exe
+D:\Winforms\Form_QuanLySinhVien\Form_QuanLySinhVien\obj\Debug\Form_QuanLySinhVien.pdb

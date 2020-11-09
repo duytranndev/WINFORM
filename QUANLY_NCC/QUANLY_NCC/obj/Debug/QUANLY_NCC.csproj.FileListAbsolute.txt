@@ -1,0 +1,12 @@
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\bin\Debug\QuanLyHang.mdf
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\bin\Debug\QuanLyHang_log.ldf
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\bin\Debug\QUANLY_NCC.exe.config
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\bin\Debug\QUANLY_NCC.exe
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\bin\Debug\QUANLY_NCC.pdb
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\obj\Debug\QUANLY_NCC.csprojAssemblyReference.cache
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\obj\Debug\QUANLY_NCC.Nha_Cung_Cap.resources
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\obj\Debug\QUANLY_NCC.Properties.Resources.resources
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\obj\Debug\QUANLY_NCC.csproj.GenerateResource.cache
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\obj\Debug\QUANLY_NCC.csproj.CoreCompileInputs.cache
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\obj\Debug\QUANLY_NCC.exe
+D:\Winforms\QUANLY_NCC\QUANLY_NCC\obj\Debug\QUANLY_NCC.pdb

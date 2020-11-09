@@ -1,0 +1,7 @@
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTranXoanOc\MaTranXoanOc\obj\Debug\MaTranXoanOc.csprojAssemblyReference.cache
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTranXoanOc\MaTranXoanOc\obj\Debug\MaTranXoanOc.csproj.CoreCompileInputs.cache
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTranXoanOc\MaTranXoanOc\bin\Debug\MaTranXoanOc.exe.config
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTranXoanOc\MaTranXoanOc\bin\Debug\MaTranXoanOc.exe
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTranXoanOc\MaTranXoanOc\bin\Debug\MaTranXoanOc.pdb
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTranXoanOc\MaTranXoanOc\obj\Debug\MaTranXoanOc.exe
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\MaTranXoanOc\MaTranXoanOc\obj\Debug\MaTranXoanOc.pdb

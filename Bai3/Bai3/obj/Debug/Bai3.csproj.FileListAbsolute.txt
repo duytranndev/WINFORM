@@ -1,0 +1,6 @@
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\Bai3\Bai3\bin\Debug\Bai3.exe.config
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\Bai3\Bai3\bin\Debug\Bai3.exe
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\Bai3\Bai3\bin\Debug\Bai3.pdb
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\Bai3\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\Bai3\Bai3\obj\Debug\Bai3.exe
+C:\Users\tngoc\OneDrive\Máy tính\Winforms\Bai3\Bai3\obj\Debug\Bai3.pdb

@@ -1,0 +1,7 @@
+D:\Winforms\HinhCau\HinhCau\obj\Debug\HinhCau.csprojAssemblyReference.cache
+D:\Winforms\HinhCau\HinhCau\obj\Debug\HinhCau.csproj.CoreCompileInputs.cache
+D:\Winforms\HinhCau\HinhCau\bin\Debug\HinhCau.exe.config
+D:\Winforms\HinhCau\HinhCau\bin\Debug\HinhCau.exe
+D:\Winforms\HinhCau\HinhCau\bin\Debug\HinhCau.pdb
+D:\Winforms\HinhCau\HinhCau\obj\Debug\HinhCau.exe
+D:\Winforms\HinhCau\HinhCau\obj\Debug\HinhCau.pdb

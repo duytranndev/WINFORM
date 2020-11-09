@@ -1,0 +1,7 @@
+D:\Winforms\QuanLyXe\QuanLyXe\bin\Debug\QuanLyXe.exe.config
+D:\Winforms\QuanLyXe\QuanLyXe\bin\Debug\QuanLyXe.exe
+D:\Winforms\QuanLyXe\QuanLyXe\bin\Debug\QuanLyXe.pdb
+D:\Winforms\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.csprojAssemblyReference.cache
+D:\Winforms\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.csproj.CoreCompileInputs.cache
+D:\Winforms\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.exe
+D:\Winforms\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.pdb

@@ -1,0 +1,12 @@
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\bin\Debug\NhanVien.mdf
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\bin\Debug\NhanVien_log.ldf
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\bin\Debug\FORM_QunaLyNhanVien.exe.config
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\bin\Debug\FORM_QunaLyNhanVien.exe
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\bin\Debug\FORM_QunaLyNhanVien.pdb
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\obj\Debug\FORM_QunaLyNhanVien.csprojAssemblyReference.cache
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\obj\Debug\FORM_QunaLyNhanVien.Form1.resources
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\obj\Debug\FORM_QunaLyNhanVien.Properties.Resources.resources
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\obj\Debug\FORM_QunaLyNhanVien.csproj.GenerateResource.cache
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\obj\Debug\FORM_QunaLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\obj\Debug\FORM_QunaLyNhanVien.exe
+D:\Winforms\FORM_QunaLyNhanVien\FORM_QunaLyNhanVien\obj\Debug\FORM_QunaLyNhanVien.pdb

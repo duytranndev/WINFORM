@@ -1,0 +1,7 @@
+D:\Winforms\MaTranDuongCheo\MaTranDuongCheo\bin\Debug\MaTranDuongCheo.exe.config
+D:\Winforms\MaTranDuongCheo\MaTranDuongCheo\bin\Debug\MaTranDuongCheo.exe
+D:\Winforms\MaTranDuongCheo\MaTranDuongCheo\bin\Debug\MaTranDuongCheo.pdb
+D:\Winforms\MaTranDuongCheo\MaTranDuongCheo\obj\Debug\MaTranDuongCheo.csprojAssemblyReference.cache
+D:\Winforms\MaTranDuongCheo\MaTranDuongCheo\obj\Debug\MaTranDuongCheo.csproj.CoreCompileInputs.cache
+D:\Winforms\MaTranDuongCheo\MaTranDuongCheo\obj\Debug\MaTranDuongCheo.exe
+D:\Winforms\MaTranDuongCheo\MaTranDuongCheo\obj\Debug\MaTranDuongCheo.pdb

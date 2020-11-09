@@ -1,0 +1,7 @@
+D:\Winforms\List_Interface\List_Interface\bin\Debug\List_Interface.exe.config
+D:\Winforms\List_Interface\List_Interface\bin\Debug\List_Interface.exe
+D:\Winforms\List_Interface\List_Interface\bin\Debug\List_Interface.pdb
+D:\Winforms\List_Interface\List_Interface\obj\Debug\List_Interface.csprojAssemblyReference.cache
+D:\Winforms\List_Interface\List_Interface\obj\Debug\List_Interface.csproj.CoreCompileInputs.cache
+D:\Winforms\List_Interface\List_Interface\obj\Debug\List_Interface.exe
+D:\Winforms\List_Interface\List_Interface\obj\Debug\List_Interface.pdb

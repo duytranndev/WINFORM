@@ -1,0 +1,12 @@
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\bin\Debug\KiemTra_QuanLySinhVien.exe.config
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\bin\Debug\KiemTra_QuanLySinhVien.exe
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\bin\Debug\KiemTra_QuanLySinhVien.pdb
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\obj\Debug\KiemTra_QuanLySinhVien.csprojAssemblyReference.cache
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\obj\Debug\KiemTra_QuanLySinhVien.Form1.resources
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\obj\Debug\KiemTra_QuanLySinhVien.Properties.Resources.resources
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\obj\Debug\KiemTra_QuanLySinhVien.csproj.GenerateResource.cache
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\obj\Debug\KiemTra_QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\obj\Debug\KiemTra_QuanLySinhVien.exe
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\obj\Debug\KiemTra_QuanLySinhVien.pdb
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\bin\Debug\App_Data\SINHVIEN.mdf
+D:\Winforms\KiemTra_QuanLySinhVien\KiemTra_QuanLySinhVien\bin\Debug\App_Data\SINHVIEN_log.ldf

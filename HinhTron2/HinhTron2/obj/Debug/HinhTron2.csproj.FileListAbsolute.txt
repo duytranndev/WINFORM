@@ -1,0 +1,7 @@
+D:\Winforms\HinhTron2\HinhTron2\bin\Debug\HinhTron2.exe.config
+D:\Winforms\HinhTron2\HinhTron2\bin\Debug\HinhTron2.exe
+D:\Winforms\HinhTron2\HinhTron2\bin\Debug\HinhTron2.pdb
+D:\Winforms\HinhTron2\HinhTron2\obj\Debug\HinhTron2.csprojAssemblyReference.cache
+D:\Winforms\HinhTron2\HinhTron2\obj\Debug\HinhTron2.csproj.CoreCompileInputs.cache
+D:\Winforms\HinhTron2\HinhTron2\obj\Debug\HinhTron2.exe
+D:\Winforms\HinhTron2\HinhTron2\obj\Debug\HinhTron2.pdb

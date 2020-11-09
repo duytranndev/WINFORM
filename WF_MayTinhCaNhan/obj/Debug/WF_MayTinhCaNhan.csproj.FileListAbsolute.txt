@@ -1,0 +1,10 @@
+D:\Winforms\WF_MayTinhCaNhan\bin\Debug\WF_MayTinhCaNhan.exe.config
+D:\Winforms\WF_MayTinhCaNhan\bin\Debug\WF_MayTinhCaNhan.exe
+D:\Winforms\WF_MayTinhCaNhan\bin\Debug\WF_MayTinhCaNhan.pdb
+D:\Winforms\WF_MayTinhCaNhan\obj\Debug\WF_MayTinhCaNhan.csprojAssemblyReference.cache
+D:\Winforms\WF_MayTinhCaNhan\obj\Debug\WF_MayTinhCaNhan.Form1.resources
+D:\Winforms\WF_MayTinhCaNhan\obj\Debug\WF_MayTinhCaNhan.Properties.Resources.resources
+D:\Winforms\WF_MayTinhCaNhan\obj\Debug\WF_MayTinhCaNhan.csproj.GenerateResource.cache
+D:\Winforms\WF_MayTinhCaNhan\obj\Debug\WF_MayTinhCaNhan.csproj.CoreCompileInputs.cache
+D:\Winforms\WF_MayTinhCaNhan\obj\Debug\WF_MayTinhCaNhan.exe
+D:\Winforms\WF_MayTinhCaNhan\obj\Debug\WF_MayTinhCaNhan.pdb

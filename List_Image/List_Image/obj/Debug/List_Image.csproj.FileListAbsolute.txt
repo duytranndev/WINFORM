@@ -1,0 +1,10 @@
+D:\Winforms\List_Image\List_Image\bin\Debug\List_Image.exe.config
+D:\Winforms\List_Image\List_Image\bin\Debug\List_Image.exe
+D:\Winforms\List_Image\List_Image\bin\Debug\List_Image.pdb
+D:\Winforms\List_Image\List_Image\obj\Debug\List_Image.csprojAssemblyReference.cache
+D:\Winforms\List_Image\List_Image\obj\Debug\List_Image.Form1.resources
+D:\Winforms\List_Image\List_Image\obj\Debug\List_Image.Properties.Resources.resources
+D:\Winforms\List_Image\List_Image\obj\Debug\List_Image.csproj.GenerateResource.cache
+D:\Winforms\List_Image\List_Image\obj\Debug\List_Image.csproj.CoreCompileInputs.cache
+D:\Winforms\List_Image\List_Image\obj\Debug\List_Image.exe
+D:\Winforms\List_Image\List_Image\obj\Debug\List_Image.pdb

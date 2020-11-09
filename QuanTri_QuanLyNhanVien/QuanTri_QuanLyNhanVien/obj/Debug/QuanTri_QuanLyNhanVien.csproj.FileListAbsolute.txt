@@ -1,0 +1,15 @@
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\bin\Debug\App_Data\QUAN_LY_NHAN_VIEN.mdf
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\bin\Debug\App_Data\QUAN_LY_NHAN_VIEN_log.ldf
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\bin\Debug\QuanTri_QuanLyNhanVien.exe.config
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\bin\Debug\QuanTri_QuanLyNhanVien.exe
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\bin\Debug\QuanTri_QuanLyNhanVien.pdb
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\obj\Debug\QuanTri_QuanLyNhanVien.csprojAssemblyReference.cache
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\obj\Debug\QuanTri_QuanLyNhanVien.Form1.resources
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\obj\Debug\QuanTri_QuanLyNhanVien.NhanVien.resources
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\obj\Debug\QuanTri_QuanLyNhanVien.Main_Form.resources
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\obj\Debug\QuanTri_QuanLyNhanVien.PhongBan.resources
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\obj\Debug\QuanTri_QuanLyNhanVien.Properties.Resources.resources
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\obj\Debug\QuanTri_QuanLyNhanVien.csproj.GenerateResource.cache
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\obj\Debug\QuanTri_QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\obj\Debug\QuanTri_QuanLyNhanVien.exe
+D:\Winforms\QuanTri_QuanLyNhanVien\QuanTri_QuanLyNhanVien\obj\Debug\QuanTri_QuanLyNhanVien.pdb

@@ -1,0 +1,10 @@
+D:\Winforms\WFBai1\bin\Debug\WFBai1.exe.config
+D:\Winforms\WFBai1\bin\Debug\WFBai1.exe
+D:\Winforms\WFBai1\bin\Debug\WFBai1.pdb
+D:\Winforms\WFBai1\obj\Debug\WFBai1.csprojAssemblyReference.cache
+D:\Winforms\WFBai1\obj\Debug\WFBai1.Properties.Resources.resources
+D:\Winforms\WFBai1\obj\Debug\WFBai1.csproj.GenerateResource.cache
+D:\Winforms\WFBai1\obj\Debug\WFBai1.csproj.CoreCompileInputs.cache
+D:\Winforms\WFBai1\obj\Debug\WFBai1.exe
+D:\Winforms\WFBai1\obj\Debug\WFBai1.pdb
+D:\Winforms\WFBai1\obj\Debug\WFBai1.Form1.resources

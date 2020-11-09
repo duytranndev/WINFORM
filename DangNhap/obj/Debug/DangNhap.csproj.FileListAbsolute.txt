@@ -1,0 +1,12 @@
+D:\Winforms\DangNhap\bin\Debug\DangNhap.exe.config
+D:\Winforms\DangNhap\bin\Debug\DangNhap.exe
+D:\Winforms\DangNhap\bin\Debug\DangNhap.pdb
+D:\Winforms\DangNhap\obj\Debug\DangNhap.csprojAssemblyReference.cache
+D:\Winforms\DangNhap\obj\Debug\DangNhap.Form1.resources
+D:\Winforms\DangNhap\obj\Debug\DangNhap.Properties.Resources.resources
+D:\Winforms\DangNhap\obj\Debug\DangNhap.csproj.GenerateResource.cache
+D:\Winforms\DangNhap\obj\Debug\DangNhap.csproj.CoreCompileInputs.cache
+D:\Winforms\DangNhap\obj\Debug\DangNhap.exe
+D:\Winforms\DangNhap\obj\Debug\DangNhap.pdb
+D:\Winforms\DangNhap\obj\Debug\DangNhap.thong_tin_hoc_vien.resources
+D:\Winforms\DangNhap\obj\Debug\DangNhap.XemThongTin.resources

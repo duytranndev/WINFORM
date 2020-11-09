@@ -1,0 +1,13 @@
+D:\Winforms\phanso\bin\Debug\netcoreapp3.1\phanso.exe
+D:\Winforms\phanso\bin\Debug\netcoreapp3.1\phanso.deps.json
+D:\Winforms\phanso\bin\Debug\netcoreapp3.1\phanso.runtimeconfig.json
+D:\Winforms\phanso\bin\Debug\netcoreapp3.1\phanso.runtimeconfig.dev.json
+D:\Winforms\phanso\bin\Debug\netcoreapp3.1\phanso.dll
+D:\Winforms\phanso\bin\Debug\netcoreapp3.1\phanso.pdb
+D:\Winforms\phanso\obj\Debug\netcoreapp3.1\phanso.csprojAssemblyReference.cache
+D:\Winforms\phanso\obj\Debug\netcoreapp3.1\phanso.AssemblyInfoInputs.cache
+D:\Winforms\phanso\obj\Debug\netcoreapp3.1\phanso.AssemblyInfo.cs
+D:\Winforms\phanso\obj\Debug\netcoreapp3.1\phanso.csproj.CoreCompileInputs.cache
+D:\Winforms\phanso\obj\Debug\netcoreapp3.1\phanso.dll
+D:\Winforms\phanso\obj\Debug\netcoreapp3.1\phanso.pdb
+D:\Winforms\phanso\obj\Debug\netcoreapp3.1\phanso.genruntimeconfig.cache

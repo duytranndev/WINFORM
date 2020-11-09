@@ -1,0 +1,10 @@
+D:\Winforms\WFPTB2\bin\Debug\WFPTB2.exe.config
+D:\Winforms\WFPTB2\bin\Debug\WFPTB2.exe
+D:\Winforms\WFPTB2\bin\Debug\WFPTB2.pdb
+D:\Winforms\WFPTB2\obj\Debug\WFPTB2.csprojAssemblyReference.cache
+D:\Winforms\WFPTB2\obj\Debug\WFPTB2.Form1.resources
+D:\Winforms\WFPTB2\obj\Debug\WFPTB2.Properties.Resources.resources
+D:\Winforms\WFPTB2\obj\Debug\WFPTB2.csproj.GenerateResource.cache
+D:\Winforms\WFPTB2\obj\Debug\WFPTB2.csproj.CoreCompileInputs.cache
+D:\Winforms\WFPTB2\obj\Debug\WFPTB2.exe
+D:\Winforms\WFPTB2\obj\Debug\WFPTB2.pdb

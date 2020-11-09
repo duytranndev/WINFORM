@@ -1,0 +1,10 @@
+D:\Winforms\MDIForm\bin\Debug\MDIForm.exe.config
+D:\Winforms\MDIForm\bin\Debug\MDIForm.exe
+D:\Winforms\MDIForm\bin\Debug\MDIForm.pdb
+D:\Winforms\MDIForm\obj\Debug\MDIForm.csprojAssemblyReference.cache
+D:\Winforms\MDIForm\obj\Debug\MDIForm.Form1.resources
+D:\Winforms\MDIForm\obj\Debug\MDIForm.Properties.Resources.resources
+D:\Winforms\MDIForm\obj\Debug\MDIForm.csproj.GenerateResource.cache
+D:\Winforms\MDIForm\obj\Debug\MDIForm.csproj.CoreCompileInputs.cache
+D:\Winforms\MDIForm\obj\Debug\MDIForm.exe
+D:\Winforms\MDIForm\obj\Debug\MDIForm.pdb

@@ -1,0 +1,14 @@
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\bin\Debug\Quan_Ly_Hang.mdf
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\bin\Debug\Quan_Ly_Hang_log.ldf
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\bin\Debug\QUAN_LY_HANG.exe.config
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\bin\Debug\QUAN_LY_HANG.exe
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\bin\Debug\QUAN_LY_HANG.pdb
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\obj\Debug\QUAN_LY_HANG.csprojAssemblyReference.cache
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\obj\Debug\QUAN_LY_HANG.Form1.resources
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\obj\Debug\QUAN_LY_HANG.NHACUNGCAP.resources
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\obj\Debug\QUAN_LY_HANG.Properties.Resources.resources
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\obj\Debug\QUAN_LY_HANG.csproj.GenerateResource.cache
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\obj\Debug\QUAN_LY_HANG.csproj.CoreCompileInputs.cache
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\obj\Debug\QUAN_LY_HANG.exe
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\obj\Debug\QUAN_LY_HANG.pdb
+D:\Winforms\QUAN_LY_HANG\QUAN_LY_HANG\obj\Debug\QUAN_LY_HANG.MATHANG.resources
