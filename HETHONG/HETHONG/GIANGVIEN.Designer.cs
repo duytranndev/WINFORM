@@ -34,7 +34,6 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txt_magv = new System.Windows.Forms.TextBox();
             this.txt_tengv = new System.Windows.Forms.TextBox();
-            this.txt_namsinh = new System.Windows.Forms.TextBox();
             this.btn_them = new System.Windows.Forms.Button();
             this.btn_sua = new System.Windows.Forms.Button();
             this.btn_thoat = new System.Windows.Forms.Button();
@@ -43,6 +42,7 @@
             this.magv = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tengv = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ngaysinh = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -97,13 +97,6 @@
             this.txt_tengv.Name = "txt_tengv";
             this.txt_tengv.Size = new System.Drawing.Size(100, 20);
             this.txt_tengv.TabIndex = 5;
-            // 
-            // txt_namsinh
-            // 
-            this.txt_namsinh.Location = new System.Drawing.Point(584, 114);
-            this.txt_namsinh.Name = "txt_namsinh";
-            this.txt_namsinh.Size = new System.Drawing.Size(100, 20);
-            this.txt_namsinh.TabIndex = 6;
             // 
             // btn_them
             // 
@@ -176,17 +169,26 @@
             this.ngaysinh.HeaderText = "Nam Sinh";
             this.ngaysinh.Name = "ngaysinh";
             // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.CustomFormat = "yyyy/MM/dd";
+            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dateTimePicker1.Location = new System.Drawing.Point(573, 114);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(111, 20);
+            this.dateTimePicker1.TabIndex = 12;
+            // 
             // GIANGVIEN
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btn_xoa);
             this.Controls.Add(this.btn_thoat);
             this.Controls.Add(this.btn_sua);
             this.Controls.Add(this.btn_them);
-            this.Controls.Add(this.txt_namsinh);
             this.Controls.Add(this.txt_tengv);
             this.Controls.Add(this.txt_magv);
             this.Controls.Add(this.label4);
@@ -209,7 +211,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txt_magv;
         private System.Windows.Forms.TextBox txt_tengv;
-        private System.Windows.Forms.TextBox txt_namsinh;
         private System.Windows.Forms.Button btn_them;
         private System.Windows.Forms.Button btn_sua;
         private System.Windows.Forms.Button btn_thoat;
@@ -218,5 +219,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn magv;
         private System.Windows.Forms.DataGridViewTextBoxColumn tengv;
         private System.Windows.Forms.DataGridViewTextBoxColumn ngaysinh;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }
 }

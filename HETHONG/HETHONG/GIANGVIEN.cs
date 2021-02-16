@@ -54,6 +54,8 @@ namespace HETHONG
         }
         private void btn_them_Click(object sender, EventArgs e)
         {
+            string ngay = dateTimePicker1.Value.ToString("yyyy/MM/dd");
+
             SqlCommand cmd = new SqlCommand("themGV", conn);
             cmd.CommandType = CommandType.StoredProcedure;
             //
@@ -61,8 +63,8 @@ namespace HETHONG
             magv.Value = txt_magv.Text;
             SqlParameter tengv = new SqlParameter("@tengv", SqlDbType.NVarChar);
             tengv.Value = txt_tengv.Text;
-            SqlParameter ngaysinh = new SqlParameter("@ngaysinh", SqlDbType.NVarChar);
-            ngaysinh.Value = txt_namsinh.Text;
+            SqlParameter ngaysinh = new SqlParameter("@ngaysinh", SqlDbType.Date);
+            ngaysinh.Value = ngay;
             cmd.Parameters.Add(magv);
             cmd.Parameters.Add(tengv);
             cmd.Parameters.Add(ngaysinh);
@@ -101,6 +103,8 @@ namespace HETHONG
 
         private void btn_sua_Click(object sender, EventArgs e)
         {
+            string ngay = dateTimePicker1.Value.ToString("yyyy/MM/dd");
+
             SqlCommand cmd = new SqlCommand("suaGV", conn);
             cmd.CommandType = CommandType.StoredProcedure;
             //
@@ -108,8 +112,8 @@ namespace HETHONG
             magv.Value = txt_magv.Text;
             SqlParameter tengv = new SqlParameter("@tengv", SqlDbType.NVarChar);
             tengv.Value = txt_tengv.Text;
-            SqlParameter ngaysinh = new SqlParameter("@ngaysinh", SqlDbType.NVarChar);
-            ngaysinh.Value = txt_namsinh.Text;
+            SqlParameter ngaysinh = new SqlParameter("@ngaysinh", SqlDbType.Date);
+            ngaysinh.Value = ngay;
             cmd.Parameters.Add(magv);
             cmd.Parameters.Add(tengv);
             cmd.Parameters.Add(ngaysinh);
@@ -133,12 +137,12 @@ namespace HETHONG
             this.Close();
         }
 
+
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             txt_magv.Text = dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[0].Value.ToString();
             txt_tengv.Text = dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[1].Value.ToString();
-            txt_namsinh.Text = dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[2].Value.ToString();
-
+            dateTimePicker1.Text = Convert.ToDateTime(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[2].Value.ToString()).ToShortDateString();
         }
     }
 }
